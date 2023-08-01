@@ -1,4 +1,4 @@
 # Hello! Im Nathan-Vieira
-###About me
+### About me
 
-##Frontend / Game developer
+## Frontend / Game developer
