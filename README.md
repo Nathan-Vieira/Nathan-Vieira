@@ -4,7 +4,10 @@
 - Frontend developer
 - Game developer
 - Graduate IT Innovation and Design - Conestoga College
-   - Fullstack web development, User experience, 3d modelling and animation, Video editing
+   - Fullstack web development
+   - User experience
+   - 3d modelling and animation
+   - Video editing
 ***
 
 Currently working on my personal passion project, a mechanically advanced multiplayer beat em up while developing my frontend skills.
