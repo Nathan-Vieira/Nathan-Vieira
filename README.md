@@ -3,7 +3,7 @@
 
 - Frontend developer
 - Game developer
-- Graduate of IT Innovation and Design from Conestoga College
+- Graduate IT Innovation and Design - Conestoga College
 ***
 
 Currently working on my personal passion project, a mechanically advanced multiplayer beat em up while developing my frontend skills.
