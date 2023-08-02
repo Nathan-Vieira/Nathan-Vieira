@@ -9,8 +9,8 @@
 Currently working on my personal passion project, a mechanically advanced multiplayer beat em up while developing my frontend skills.
 
 - Currently learning
-  - Fullstack reactjs programming
-  - Unity3d c# programing
+  - Fullstack ReactJs programming
+  - Unity3d C# programing
   - Blender game asset modelling
  
 I'm looking to partipate in development of challenging projects to grow as a developer.
