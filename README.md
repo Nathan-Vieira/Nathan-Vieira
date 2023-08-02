@@ -16,4 +16,4 @@ Currently working on my personal passion project, a mechanically advanced multip
 I'm looking to partipate in development of challenging projects to grow as a developer.
 
 #### languages
-C# | Js | HTML | Css
+C# | Js | HTML | CSS
