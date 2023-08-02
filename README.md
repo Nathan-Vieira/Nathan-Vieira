@@ -8,7 +8,7 @@
 
 Currently working on my personal passion project, a mechanically advanced multiplayer beat em up while developing my frontend skills.
 
-- currently learning
+- Currently learning
   - fullstack reactjs programming
   - unity3d c# programing
   - blender game asset modelling
