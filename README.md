@@ -1,4 +1,4 @@
-# Hello! Im Nathan-Vieira
+# Hello! I'm Nathan-Vieira
 ### About me
 
 - Frontend developer
