@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d129ec85.css",
+    "main.js": "/static/js/main.e1366c89.js",
+    "static/js/787.5074d13e.chunk.js": "/static/js/787.5074d13e.chunk.js",
+    "static/media/card.png": "/static/media/card.c886806bf67dee9068d2.png",
+    "static/media/homeScreen.png": "/static/media/homeScreen.b609756adc85cbdb9f23.png",
+    "static/media/background3.jpg": "/static/media/background3.a48ab293838a6640d587.jpg",
+    "static/media/highFidelity02.png": "/static/media/highFidelity02.253f3536062817073965.png",
+    "static/media/highFidelity01.png": "/static/media/highFidelity01.eb057e0b75aa5a4f0395.png",
+    "static/media/background.png": "/static/media/background.b7c057f600944603c2af.png",
+    "static/media/userFlow.png": "/static/media/userFlow.35e0982954934c5d6563.png",
+    "static/media/highFidelity01.PNG": "/static/media/highFidelity01.741dcb42daaf16237f69.PNG",
+    "static/media/highFidelity02.PNG": "/static/media/highFidelity02.0269608458453669aa5a.PNG",
+    "static/media/highFidelity03.png": "/static/media/highFidelity03.08a844ff5ac42c771d83.png",
+    "static/media/highFidelity04.png": "/static/media/highFidelity04.f68785708aa4cdfa372b.png",
+    "static/media/card.PNG": "/static/media/card.58b06ac3672edca6de97.PNG",
+    "static/media/banner.PNG": "/static/media/banner.883d1b59df076d2faef9.PNG",
+    "static/media/card.JPG": "/static/media/card.f6126ba6fe8a439140a3.JPG",
+    "static/media/analytics.png": "/static/media/analytics.db81447ee7b5eb7c904d.png",
+    "static/media/cardSmall.png": "/static/media/cardSmall.f32efc5fbdba9f91de7f.png",
+    "static/media/viewBooking.png": "/static/media/viewBooking.8278b05eefe64b22c309.png",
+    "static/media/contacts.png": "/static/media/contacts.8e823d22ad86ee711fc8.png",
+    "static/media/addBooking.png": "/static/media/addBooking.b9e34e62c8a3197497f9.png",
+    "static/media/cardSmall.PNG": "/static/media/cardSmall.a4c5c1edefb09af808e3.PNG",
+    "static/media/Components.JPG": "/static/media/Components.7e9d441d760b8e63cbd9.JPG",
+    "static/media/GameManager.JPG": "/static/media/GameManager.94132e64b0d3887471c3.JPG",
+    "index.html": "/index.html",
+    "main.d129ec85.css.map": "/static/css/main.d129ec85.css.map",
+    "main.e1366c89.js.map": "/static/js/main.e1366c89.js.map",
+    "787.5074d13e.chunk.js.map": "/static/js/787.5074d13e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d129ec85.css",
+    "static/js/main.e1366c89.js"
+  ]
+}
