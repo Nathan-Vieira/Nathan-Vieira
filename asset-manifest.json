@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/nathan-vieira-portfolio/static/css/main.d129ec85.css",
+    "main.js": "/nathan-vieira-portfolio/static/js/main.2684be65.js",
+    "static/js/453.be1c7fb4.chunk.js": "/nathan-vieira-portfolio/static/js/453.be1c7fb4.chunk.js",
+    "static/media/card.png": "/nathan-vieira-portfolio/static/media/card.c886806bf67dee9068d2.png",
+    "static/media/homeScreen.png": "/nathan-vieira-portfolio/static/media/homeScreen.b609756adc85cbdb9f23.png",
+    "static/media/background3.jpg": "/nathan-vieira-portfolio/static/media/background3.a48ab293838a6640d587.jpg",
+    "static/media/highFidelity02.png": "/nathan-vieira-portfolio/static/media/highFidelity02.253f3536062817073965.png",
+    "static/media/highFidelity01.png": "/nathan-vieira-portfolio/static/media/highFidelity01.eb057e0b75aa5a4f0395.png",
+    "static/media/background.png": "/nathan-vieira-portfolio/static/media/background.b7c057f600944603c2af.png",
+    "static/media/userFlow.png": "/nathan-vieira-portfolio/static/media/userFlow.35e0982954934c5d6563.png",
+    "static/media/highFidelity01.PNG": "/nathan-vieira-portfolio/static/media/highFidelity01.741dcb42daaf16237f69.PNG",
+    "static/media/highFidelity02.PNG": "/nathan-vieira-portfolio/static/media/highFidelity02.0269608458453669aa5a.PNG",
+    "static/media/highFidelity03.png": "/nathan-vieira-portfolio/static/media/highFidelity03.08a844ff5ac42c771d83.png",
+    "static/media/highFidelity04.png": "/nathan-vieira-portfolio/static/media/highFidelity04.f68785708aa4cdfa372b.png",
+    "static/media/card.PNG": "/nathan-vieira-portfolio/static/media/card.58b06ac3672edca6de97.PNG",
+    "static/media/banner.PNG": "/nathan-vieira-portfolio/static/media/banner.883d1b59df076d2faef9.PNG",
+    "static/media/card.JPG": "/nathan-vieira-portfolio/static/media/card.f6126ba6fe8a439140a3.JPG",
+    "static/media/analytics.png": "/nathan-vieira-portfolio/static/media/analytics.db81447ee7b5eb7c904d.png",
+    "static/media/cardSmall.png": "/nathan-vieira-portfolio/static/media/cardSmall.f32efc5fbdba9f91de7f.png",
+    "static/media/viewBooking.png": "/nathan-vieira-portfolio/static/media/viewBooking.8278b05eefe64b22c309.png",
+    "static/media/contacts.png": "/nathan-vieira-portfolio/static/media/contacts.8e823d22ad86ee711fc8.png",
+    "static/media/addBooking.png": "/nathan-vieira-portfolio/static/media/addBooking.b9e34e62c8a3197497f9.png",
+    "static/media/cardSmall.PNG": "/nathan-vieira-portfolio/static/media/cardSmall.a4c5c1edefb09af808e3.PNG",
+    "static/media/Components.JPG": "/nathan-vieira-portfolio/static/media/Components.7e9d441d760b8e63cbd9.JPG",
+    "static/media/GameManager.JPG": "/nathan-vieira-portfolio/static/media/GameManager.94132e64b0d3887471c3.JPG",
+    "index.html": "/nathan-vieira-portfolio/index.html",
+    "main.d129ec85.css.map": "/nathan-vieira-portfolio/static/css/main.d129ec85.css.map",
+    "main.2684be65.js.map": "/nathan-vieira-portfolio/static/js/main.2684be65.js.map",
+    "453.be1c7fb4.chunk.js.map": "/nathan-vieira-portfolio/static/js/453.be1c7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d129ec85.css",
+    "static/js/main.2684be65.js"
+  ]
+}
