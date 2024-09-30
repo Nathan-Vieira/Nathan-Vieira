@@ -1,0 +1,242 @@
+/* * {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+} */
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.projectBody {
+  margin: 0 auto;
+  margin-top: 4em;
+  padding-top: 1em;
+  padding-bottom: 5em;
+  /* font-size: 20px; */
+}
+.projectHero {
+  margin-top: 2em;
+  margin-bottom: 4em;
+  border-radius: 2px;
+  margin-left: 100px;
+}
+.projectParent {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 2000px;
+}
+.projectList {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.projectOverview {
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+}
+.projectOverviewContents {
+  width: 50%;
+  filter: drop-shadow(7px 7px 10px rgb(60, 60, 60));
+  background-color: rgb(255, 255, 255);
+  padding-top: 50px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
+}
+.projectOverviewContents div {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.projectSection {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  padding-top: 4em;
+  padding-bottom: 3em;
+  margin-bottom: 5em;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  filter: drop-shadow(7px 7px 10px rgb(60, 60, 60));
+}
+
+.projectDescription {
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 2em;
+  margin-right: 5em;
+  padding-left: 3em;
+  border-radius: 1px;
+  padding-top: 2em;
+  /* width: 80%; */
+}
+
+.projectDescription li {
+  padding-bottom: 20px;
+}
+.projectTitle {
+  padding-bottom: 55px;
+  padding-top: 55px;
+  padding-left: 1em;
+  margin-left: 2em;
+  font-size: 100px;
+}
+.projectAbout {
+  position: relative;
+  justify-content: center;
+  /* padding-bottom: 1em; */
+  width: 70%;
+  left: 15%;
+  font-size: 50px;
+  font-weight: 100;
+}
+.projectAbout p {
+  font-size: 50px;
+  font-weight: lighter;
+  line-height: 70px;
+}
+.projectMedia {
+  padding-bottom: 1em;
+  filter: drop-shadow(5px 5px 10px rgb(60, 60, 60));
+  margin-left: 3em;
+}
+.projectFinal {
+  background-color: rgb(255, 255, 255);
+
+  padding: 2em;
+  border-radius: 2px;
+  filter: drop-shadow(7px 7px 10px rgb(60, 60, 60));
+  margin-left: 40px;
+  margin-right: 40px;
+}
+p {
+  line-height: 40px;
+}
+hr {
+  height: 5px;
+  background-color: #777777;
+  border: none;
+}
+.projectMedia img {
+  max-height: 570px;
+}
+.projectBanner {
+  max-height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+.projectFinal p {
+  /* font-size: 23px; */
+  line-height: 30px;
+}
+@media screen and (max-width: 1375px) {
+  .projectSection {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .projectFinal {
+    width: 100%;
+    margin: 0px;
+  }
+  .projectBody {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  .projectDescription {
+    height: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .projectOverviewContents {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .projectDescription {
+    width: 80%;
+  }
+  .projectTitle {
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-left: 50px;
+    padding-right: 0px;
+  }
+  .projectBanner {
+    display: none;
+  }
+  .projectSection {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .projectHero {
+    margin-left: 0px;
+    padding-top: 0px;
+  }
+}
+@media screen and (max-width: 710px) {
+  .projectDescription {
+    width: 80%;
+    height: 100%;
+    /* font-size: 20px; */
+  }
+
+  .projectTitle {
+    font-size: 50px;
+    line-height: 66px;
+    margin-left: 0px;
+  }
+  .projectSection {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .projectAbout p {
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 510px) {
+  .projectDescription p {
+    line-height: 40px;
+    margin-right: 70px;
+  }
+  .projectMedia {
+    margin: 0;
+  }
+  .projectMedia img {
+    height: 300px;
+  }
+
+  .projectTitle {
+    padding-left: 25px;
+  }
+  .projectZbout {
+    left: 5%;
+  }
+  .projectFinal p {
+    /* font-size: 23px; */
+    line-height: 40px;
+  }
+  .projectBanner {
+    display: none;
+  }
+  .projectAbout {
+    left: 5%;
+  }
+}
