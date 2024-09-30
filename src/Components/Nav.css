@@ -1,0 +1,50 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+.nav div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+}
+.nav-links {
+  display: flex;
+  padding-right: 3em;
+}
+.nav-link {
+  list-style: none;
+  color: rgb(65, 65, 65);
+  text-decoration: none;
+
+}
+.nav-links li {
+  list-style: none;
+  margin-left: 2em;
+
+}
+.nav-img {
+  height: 80%;
+  padding-left: 2em;
+}
+
+@media screen and (max-width: 710px) {
+  .nav {
+    flex-direction: column;
+    height: 100px;
+    align-items: center;
+  }
+  .nav-links li{
+    padding: 0;
+    margin: 0;
+  }
+  .nav-links{
+    gap: 20px;
+  }
+  .nav-img {
+    height: 80%;
+    padding: 0;
+  }
+}
+

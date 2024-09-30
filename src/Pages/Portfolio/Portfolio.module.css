@@ -1,0 +1,130 @@
+.title {
+  padding-top: 1em;
+  text-align: center;
+  font-size: 75px;
+
+}
+.projectListTitle {
+  padding: 0;
+  /* margin: 7em; */
+  font-size: 25px;
+  padding: 125px 0 50px 0;
+}
+.portfolioBody {
+  margin-bottom: 4em;
+}
+.project {
+  display: block;
+
+  position: relative;
+  width: 500px;
+  height: 250px;
+  border: solid 1px;
+  background-size: cover;
+  border-color: rgb(190, 190, 190);
+}
+.projectSmall {
+  display: none;
+}
+.projectsList {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+.projects > div {
+  text-align: center;
+}
+
+.project h3 {
+  position: absolute;
+  display: block;
+  top: -10px;
+  left: 10px;
+}
+.project {
+  transition: transform 0.2s ease-out;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+.projectSmall {
+  transition: transform 0.2s ease-out;
+}
+
+.projectSmall:hover {
+  transform: scale(1.05);
+}
+.projectContents {
+  display: flex;
+  justify-content: space-between;
+}
+.projectName {
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 1em;
+  bottom: 20px;
+  margin-top: 0;
+}
+.projectDesc {
+  position: relative;
+  height: 40px;
+  margin-right: 1em;
+  padding: 0 1em 0 1em;
+  bottom: -210px;
+}
+.projectLink {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1550px) {
+  .projectsList {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .project {
+    display: none;
+    height: 300px;
+    width: 250px;
+  }
+  .projectsList {
+    flex-direction: column;
+    padding: 30px 0 50px 0;
+  }
+  .projectListItem {
+    width: 100%;
+    filter: drop-shadow(7px 7px 10px rgb(60, 60, 60));
+    background-color: rgb(245, 245, 245);
+    padding-top: 1em;
+
+  }
+  .projectName {
+    margin: 20px 0 20px 20px
+  }
+
+  .projectDesc {
+    margin: 0;
+    bottom: 0;
+    padding: 0 1em 0 1em;
+  }
+  .projectSmall {
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(245, 245, 245);
+  }
+  .project {
+    display: none;
+  }
+  a {
+    text-decoration: none;
+  }
+ 
+}
