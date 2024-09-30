@@ -3,7 +3,6 @@ import classes from "../Pages/Portfolio/Portfolio.module.css";
 import { Link } from "react-router-dom";
 
 const SmallProject = ({ props }) => {
-  //test change
   let val = props;
   return (
     <Link className={classes.projectLink} to={`/project/${val.id}`}>
